@@ -15,14 +15,15 @@ I am going to use different technologies such as Python, Amazon Web Services (AW
 
 1. Programming Language - Python
 2. Amazon Web Service (AWS)
-  a. S3 (Simple Storage Service)
-
-  b. Athena
+   
+      a. S3 (Simple Storage Service)
+    
+      b. Athena
+      
+      c. Glue Crawler
+      
+      d. Glue Catalog
+      
+      e. EC2
   
-  c. Glue Crawler
-  
-  d. Glue Catalog
-  
-  e. EC2
-  
-3. Apache Kafka
+4. Apache Kafka
