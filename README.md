@@ -8,7 +8,7 @@ I am going to use different technologies such as Python, Amazon Web Services (AW
 
 ## Architecture : 
 
-![Architecture](https://github.com/Kousikdutta1/Stock-Streaming-Analysis-Using-Kafka/assets/106880838/da1627c2-590b-4b7b-8e64-380f461f86ce)
+[![Architecture](https://github.com/Kousikdutta1/Stock-Streaming-Analysis-Using-Kafka/assets/106880838/da1627c2-590b-4b7b-8e64-380f461f86ce)](https://github.com/Kousikdutta1/Stock-Streaming-Analysis-Using-Kafka/assets/106880838/d053d4f7-badd-46cf-a44e-1a225b415007)
 
 
 ## Technology Used :
